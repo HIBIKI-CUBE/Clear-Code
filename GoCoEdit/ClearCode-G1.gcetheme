@@ -1,0 +1,58 @@
+{
+	"name": 
+	
+				////////////////////////////////////
+				//																//
+									"Clear Code G1",				//
+				//																//
+				//	Based on Monokai		.					//
+				//	Available under MIT Licens.		//
+				//																//
+				//									© HIBIKI CUBE	//
+				////////////////////////////////////
+		
+	"defaults": {
+		//Default styles.
+		"text_color":"F0F0F0",
+		"background":"161616",
+		"activeline_background":"252525",
+		"matchingbracket_color":"00FF00"
+	},
+	"gutters": {
+		//Line number styles.
+		"background":"202020",
+		"text_color":"FF8000",
+		"border_color":"505050"
+	},
+	"tokens": {
+		// The token styles
+		// syntax: "[tokenname]_[property]" : "[value]",
+		
+		// possible propertys [values]: 
+		// color [color], background [color], style [italic], decoration [underline, overline, line-line-through], weight [bold]
+		 
+		// This are the the supported default tokens:
+		// comment, number, atom, property, attribute, keyword, builtin, string, variable, variable2, variable3, def, bracket, tag, header, link, error
+		
+		"comment_color":"787878",
+		"number_color":"AAFF00",
+		"property_color":"A6E22E",
+		"attribute_color":"A6E22E",
+		"keyword_color":"F92672",
+		"builtin_color":"AE81FF",
+		"string_color":"E6DB74",
+		"variable_color":"99EEFF",
+		"variable2_color":"99EEFF",
+		"variable3_color":"99EEFF",
+		"def_color":"00D6FF",
+		"bracket_color":"FF4A00",
+		"tag_color":"FF4A00",
+		"header_color":"FF8000",
+		"link_color":"3EAFFF",
+		"link_decoration":"underline",
+		"error_color":"000",
+		"error_background":"E53935",
+		"atom_color":"FF77FF"
+		
+	}
+}
